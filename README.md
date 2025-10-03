@@ -1,6 +1,6 @@
 # Poject1-PhonePe Transaction Insights
 
-#About The Project
+About The Project
 
 This project involves the extraction, transformation, and visualization of the PhonePe Pulse dataset. The primary goal is to analyze the dynamics of transactions, user engagement, and insurance-related data from the PhonePe digital payments platform. By loading the data into a SQL database and building an interactive Streamlit dashboard, this project aims to uncover key insights into payment trends across India.
 
